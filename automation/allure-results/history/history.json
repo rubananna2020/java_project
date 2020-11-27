@@ -1,0 +1,90 @@
+{
+  "9c9f042df50fffa9dfcfea30bca25e5a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 3
+    },
+    "items" : [ {
+      "uid" : "e86df87c4fc14104",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/5/allure/#testresult/e86df87c4fc14104",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597752206229,
+        "stop" : 1597752211878,
+        "duration" : 5649
+      }
+    }, {
+      "uid" : "8d1bf24bd8b7e981",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/8d1bf24bd8b7e981",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597747087553,
+        "stop" : 1597747094827,
+        "duration" : 7274
+      }
+    }, {
+      "uid" : "4a11dcb11beaf541",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/3/allure/#testresult/4a11dcb11beaf541",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597322346534,
+        "stop" : 1597322360780,
+        "duration" : 14246
+      }
+    } ]
+  },
+  "beafd24715d20a2ebbaa08cead45df3b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "87d92880fedfdec9",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/4/allure/#testresult/87d92880fedfdec9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597746842944,
+        "stop" : 1597746853866,
+        "duration" : 10922
+      }
+    } ]
+  },
+  "a3bbbb8d66cd9eeef56a06331b2e92e0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "c5a2eaa79d642129",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/2/allure/#testresult/c5a2eaa79d642129",
+      "status" : "passed",
+      "time" : {
+        "start" : 1597320308183,
+        "stop" : 1597320315251,
+        "duration" : 7068
+      }
+    }, {
+      "uid" : "3b59e0475e5d63dc",
+      "reportUrl" : "http://localhost:9090/job/Full%20Stack%20Final%20Project%20API/1/allure/#testresult/3b59e0475e5d63dc",
+      "status" : "broken",
+      "statusDetails" : "java.lang.NullPointerException",
+      "time" : {
+        "start" : 1597320144597,
+        "stop" : 1597320145678,
+        "duration" : 1081
+      }
+    } ]
+  }
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Environment>
+    <!--TimeOut-->
+    <TimeOut>5</TimeOut>
+
+    <!--Credentials-->
+    <user>standard_user</user>
+    <password>secret_sauce</password>
+
+    <!--Web-->
+    <BrowserName>Chrome</BrowserName>
+    <BaseUrl>https://www.saucedemo.com/</BaseUrl>
+    <afterMethodUrl>https://www.saucedemo.com/inventory.html</afterMethodUrl>
+    <ImageRepo>./imageRepository/</ImageRepo>
+
+    <!--mobile-->
+    <UDID>52108c91ea802495</UDID>
+    <APP_PACKAGE>com.shivgadhia.android.ukMortgageCalc</APP_PACKAGE>
+    <APP_ACTIVITY>.MainActivity</APP_ACTIVITY>
+    <Appium_Server>http://127.0.0.1:4723</Appium_Server>
+
+    <!--API-->
+<!--    <url_api>https://api.chucknorris.io/</url_api>-->
+    <url_api>http://localhost:9000</url_api>
+
+    <!--Electron-->
+    <ElectronDriverPath>./Drivers/electron.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/automation/TestAutomation/libs/Electron_API_Demos-win32-ia32/Electron_API_Demos.exe</ElectronAppPath>
+
+    <!--Desktop-->
+    <calculator_App>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</calculator_App>
+
+    <!--DataBase-->
+    <dbURL>jdbc:mysql://remotemysql.com:3306/ekbIn5mj3C</dbURL>
+    <dbUser>ekbIn5mj3C</dbUser>
+    <dbPassword>OdUNwJzZxA</dbPassword>
+
+</Environment>

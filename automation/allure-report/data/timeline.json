@@ -1,0 +1,121 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-GJBLS7MV",
+    "children" : [ {
+      "name" : "12048@LAPTOP-GJBLS7MV.main(1)",
+      "children" : [ {
+        "name" : "Test02: Add Student record and verify it",
+        "uid" : "f9aafc9b3a35e34c",
+        "parentUid" : "32f8a64d9f33d32ae57f8affea17a30d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340490831,
+          "stop" : 1598340491418,
+          "duration" : 587
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test03: Update Student record and verify it",
+        "uid" : "f9213e55e1c8e02c",
+        "parentUid" : "32f8a64d9f33d32ae57f8affea17a30d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340491451,
+          "stop" : 1598340491737,
+          "duration" : 286
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get StudentList from server",
+        "uid" : "31d79e6d50c4fac5",
+        "parentUid" : "32f8a64d9f33d32ae57f8affea17a30d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340485582,
+          "stop" : 1598340490572,
+          "duration" : 4990
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test04: Delete Student record and verify it",
+        "uid" : "cc5d8210fb53d833",
+        "parentUid" : "32f8a64d9f33d32ae57f8affea17a30d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340491750,
+          "stop" : 1598340491950,
+          "duration" : 200
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "32f8a64d9f33d32ae57f8affea17a30d"
+    }, {
+      "name" : "3108@LAPTOP-GJBLS7MV.main(1)",
+      "children" : [ {
+        "name" : "Test02: Add Student record and verify it",
+        "uid" : "d5a40baf2d2ba05a",
+        "parentUid" : "2d30c011ec4cd1c22014a41e82ba5fae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340349575,
+          "stop" : 1598340350256,
+          "duration" : 681
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test03: Update Student record and verify it",
+        "uid" : "59f517e7aae9cfc6",
+        "parentUid" : "2d30c011ec4cd1c22014a41e82ba5fae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340350278,
+          "stop" : 1598340350486,
+          "duration" : 208
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test01: Get StudentList from server",
+        "uid" : "ae7c100e8b19933e",
+        "parentUid" : "2d30c011ec4cd1c22014a41e82ba5fae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340346740,
+          "stop" : 1598340349391,
+          "duration" : 2651
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      }, {
+        "name" : "Test04: Delete Student record and verify it",
+        "uid" : "fe917c8570794371",
+        "parentUid" : "2d30c011ec4cd1c22014a41e82ba5fae",
+        "status" : "passed",
+        "time" : {
+          "start" : 1598340350502,
+          "stop" : 1598340350745,
+          "duration" : 243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "api" ]
+      } ],
+      "uid" : "2d30c011ec4cd1c22014a41e82ba5fae"
+    } ],
+    "uid" : "922f18e632348c0c89eb8957e87ecd08"
+  } ]
+}

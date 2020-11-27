@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: SanityTests.saucedemoWeb
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 38.775 s <<< FAILURE! - in SanityTests.saucedemoWeb
+test04_verifyLogo(SanityTests.saucedemoWeb)  Time elapsed: 1.776 s  <<< FAILURE!
+java.lang.AssertionError: images are not the same expected [false] but found [true]
+	at SanityTests.saucedemoWeb.test04_verifyLogo(saucedemoWeb.java:44)
+

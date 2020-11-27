@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: SanityTests.calculatorDesktop
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 3, Time elapsed: 9.055 s <<< FAILURE! - in SanityTests.calculatorDesktop
+openSession(SanityTests.calculatorDesktop)  Time elapsed: 8.061 s  <<< FAILURE!
+java.lang.NullPointerException
+

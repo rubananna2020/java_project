@@ -1,0 +1,61 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "SanityTests.studentListAPI",
+    "children" : [ {
+      "name" : "test01_GetList",
+      "uid" : "31d79e6d50c4fac5",
+      "parentUid" : "6b47f31a8bdb417227fd38f2b73665fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598340485582,
+        "stop" : 1598340490572,
+        "duration" : 4990
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "api" ]
+    }, {
+      "name" : "test02_addStudent",
+      "uid" : "f9aafc9b3a35e34c",
+      "parentUid" : "6b47f31a8bdb417227fd38f2b73665fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598340490831,
+        "stop" : 1598340491418,
+        "duration" : 587
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "api" ]
+    }, {
+      "name" : "test03_updateStudent",
+      "uid" : "f9213e55e1c8e02c",
+      "parentUid" : "6b47f31a8bdb417227fd38f2b73665fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598340491451,
+        "stop" : 1598340491737,
+        "duration" : 286
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "api" ]
+    }, {
+      "name" : "test04_deleteStudent",
+      "uid" : "cc5d8210fb53d833",
+      "parentUid" : "6b47f31a8bdb417227fd38f2b73665fd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1598340491750,
+        "stop" : 1598340491950,
+        "duration" : 200
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "api" ]
+    } ],
+    "uid" : "SanityTests.studentListAPI"
+  } ]
+}

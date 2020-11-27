@@ -1,0 +1,113 @@
+{
+  "uid" : "d5a40baf2d2ba05a",
+  "name" : "Test02: Add Student record and verify it",
+  "fullName" : "SanityTests.studentListAPI.test02_addStudent",
+  "historyId" : "748d07ac0419f6ef97a1091945410aba",
+  "time" : {
+    "start" : 1598340349575,
+    "stop" : 1598340350256,
+    "duration" : 681
+  },
+  "description" : "Test Description: Add new Student record and verify it",
+  "descriptionHtml" : "<p>Test Description: Add new Student record and verify it</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "openSession",
+    "time" : {
+      "start" : 1598340343820,
+      "stop" : 1598340346642,
+      "duration" : 2822
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "closeSession",
+    "time" : {
+      "start" : 1598340350769,
+      "stop" : 1598340350774,
+      "duration" : 5
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "afterMethod",
+    "time" : {
+      "start" : 1598340350269,
+      "stop" : 1598340350269,
+      "duration" : 0
+    },
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "SanityTests.studentListAPI"
+  }, {
+    "name" : "testClass",
+    "value" : "SanityTests.studentListAPI"
+  }, {
+    "name" : "testMethod",
+    "value" : "test02_addStudent"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Suite"
+  }, {
+    "name" : "suite",
+    "value" : "API Tests"
+  }, {
+    "name" : "subSuite",
+    "value" : "SanityTests.studentListAPI"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-GJBLS7MV"
+  }, {
+    "name" : "thread",
+    "value" : "3108@LAPTOP-GJBLS7MV.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "testng"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "PlatformName",
+    "value" : "api"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d5a40baf2d2ba05a.json",
+  "parameterValues" : [ "api" ]
+}
